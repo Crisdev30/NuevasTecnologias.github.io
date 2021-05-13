@@ -1,0 +1,44 @@
+img{
+    float: right;
+    margin-right: 100px;
+    
+}
+ol{
+    margin-left: 100px;
+    margin-right: 500px;
+  
+}
+body{
+    width: 800px;
+    margin: 0 auto;
+}
+
+form {
+   text-align: center;
+}
+
+
+#linea{
+    border:1px solid gray;
+}
+#a{
+    margin-right: 480px;
+}
+#b{
+    margin-right: 457px;
+}
+#c{
+    margin-right: 476px;
+}
+#z{
+    margin-right: 330px;
+}
+#y{
+    margin-right: 239px;
+}
+#w{
+    margin-right: 370px;
+}
+#v{
+    margin-right: 259px;
+}
